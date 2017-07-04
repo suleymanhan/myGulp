@@ -1,0 +1,23 @@
+{
+  "name": "skeleton",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Glib <nex_wade@yahoo.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "magnific-popup": "^1.1.0",
+    "normalize-css": "^7.0.0",
+    "owl.carousel": "^2.2.1"
+  }
+}
